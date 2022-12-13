@@ -1,0 +1,11 @@
+# -------------------------------------------------------------------------
+# Tests for module bar.R
+# -------------------------------------------------------------------------
+
+# run from command line: Rscript ~/dsp/testing/module_foo/bar.r
+
+test_that('numbers get squared', {
+  expect_equal(bar(3), 6)
+  expect_equal(bar(-3), -6)
+})
+
