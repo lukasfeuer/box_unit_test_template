@@ -8,10 +8,12 @@ I found the instructions of the \{box\} [documentation for unit testing](https:/
 
 TODO
 * add integration with \{renv\} package
+  - reference to devtools before init (otherwise resource intensive local installation)
 * add instructions for user to set up (testthat/box/renv)
 * add reference / highlight differences when using a specialized .Rprofile 
 
 
 Instructions: 
-* Recommended to also use the [\{renv\}](https://rstudio.github.io/renv/) package for package version control. Run renv::init() after modules are set up and code is running as intended. Initializing to early will potentially require many manual installations to local package library 
+* Recommended to also use the [\{renv\}](https://rstudio.github.io/renv/) package for package version control. Run renv::init() after modules are set up and code is running as intended. Initializing too early will potentially require many manual installations to local package library 
+    - need to install: devtools ; before being able to run tests after init
 * Sometimes it is useful to run test from command line. For example: Rscript ~/<path to project>/testing/modules/module1.r

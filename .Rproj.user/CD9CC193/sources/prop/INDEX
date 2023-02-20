@@ -1,3 +1,4 @@
+~%2Fdsp%2Ftesting%2F.Rprofile="8549897C"
 ~%2Fdsp%2Ftesting%2F.gitignore="60181F5E"
 ~%2Fdsp%2Ftesting%2FR%2F__tests__%2F__init__.r="D733D904"
 ~%2Fdsp%2Ftesting%2FR%2F__tests__%2Fhelper-module.r="12CAE8D3"
@@ -21,3 +22,4 @@
 ~%2Fdsp%2Ftesting%2Fmodules%2F__tests__%2Ftest-module2.R="97152DA1"
 ~%2Fdsp%2Ftesting%2Fmodules%2Fmodule1.R="DCFAEBCC"
 ~%2Fdsp%2Ftesting%2Fmodules%2Fmodule2.R="37451EC1"
+~%2Fdsp%2Ftesting%2Frenv.lock="42A4BED4"
