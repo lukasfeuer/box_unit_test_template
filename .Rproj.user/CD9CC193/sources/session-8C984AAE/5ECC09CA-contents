@@ -1,3 +1,0 @@
-box::use(../foo[...])
-#box::use(../bar[...])
-#-> second one seems not necessary?

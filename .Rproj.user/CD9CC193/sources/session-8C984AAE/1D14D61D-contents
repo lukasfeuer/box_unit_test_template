@@ -1,9 +1,0 @@
-# test fun
-
-foo <- function(x) {
-  x^2
-}
-
-if (is.null(box::name())) {
-  box::use(./`__tests__`)
-}
