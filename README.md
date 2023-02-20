@@ -1,7 +1,7 @@
 
 # Template | Unit Testing of Modular R Code
 
-This project provides a template for unit testing of modular R code with the  (\{testthat\})[https://testthat.r-lib.org] package and the \{box\} package.
+This project provides a template for unit testing of modular R code with the  [\{testthat\}](https://testthat.r-lib.org) package and the \{box\} package.
 
 
 
